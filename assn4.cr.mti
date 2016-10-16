@@ -1,0 +1,234 @@
+{C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/reg2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/reg2.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg2
+-- Compiling architecture behavioral of reg2
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/plusfouradder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\008\Downloads\iitd sem4\col216\assn4\harsh comp arch\plusfouradder.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity plusfouradder
+-- Compiling architecture behaviour of plusfouradder
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/instruction_memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/instruction_memory.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity im
+-- Compiling architecture behavioral of im
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/temp_reg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/temp_reg.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity temp_reg
+-- Compiling architecture behaviour of temp_reg
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/shifter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/shifter.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity shifter
+-- Compiling architecture behaviour of shifter
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/mux_2to1f.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/mux_2to1f.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity muxtwotoonef
+-- Compiling architecture behaviour of muxtwotoonef
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/signextension.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/signextension.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity signextension
+-- Compiling architecture behave of signextension
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/program_counter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/program_counter.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity pc
+-- Compiling architecture behavioral of pc
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/mux_2to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/mux_2to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity muxtwotoone
+-- Compiling architecture behaviour of muxtwotoone
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/rotatorim.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/rotatorim.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity rotator
+-- Compiling architecture behaviour of rotator
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/mux_4to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/mux_4to1.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity muxfourtoone
+-- Compiling architecture behaviour of muxfourtoone
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/alu.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu
+-- Compiling architecture rtl of alu
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/data_memory.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/data_memory.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity dm
+-- Compiling architecture behavioral of dm
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/flag.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/flag.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity flag
+-- Compiling architecture behavioral of flag
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/controller.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath
+-- Compiling architecture behavioral of datapath
+** Error: C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd(367): Signal "fwd_c" is type ieee.std_logic_1164.STD_LOGIC_VECTOR; expecting type ieee.std_logic_1164.STD_LOGIC.
+** Error (suppressible): C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd(272): (vcom-1272) Length of formal "input" is 8; length of slice name is 4.
+
+** Error (suppressible): C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd(273): (vcom-1272) Length of formal "s_amt" is 4; length of slice name is 8.
+
+** Error: C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd(380): VHDL Compiler exiting
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+-- Giving up waiting on lock. Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+** Error: VHDL Compiler exiting
+** Warning: (vcom-6) -- Waiting for lock by "Harsh@HP, pid = 6912
+". Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+
+-- Giving up waiting on lock. Lockfile is "C:/Users/008/Downloads/iitd sem4/col216/assn 3/2014cs10221/work/_lock".
+** Error: VHDL Compiler exiting
+
+} {11.0 12.0 16.0 17.0 45.0 46.0 50.0 51.0} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/reg_file.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/reg_file.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity regFile
+-- Compiling architecture regFileArch of regFile
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/extension.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/extension.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ext
+-- Compiling architecture behavioral of ext
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/reg1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/reg1.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg1
+-- Compiling architecture behavioral of reg1
+
+} {} {}} {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/008/Downloads/iitd sem4/col216/assn4/harsh comp arch/datapath.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath
+-- Compiling architecture behavioral of datapath
+
+} {} {}}
